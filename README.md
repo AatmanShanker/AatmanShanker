@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **codekrishna2008@gmail.com**
 
-- ⚡ Fun fact **I will love to talk to you :)**
+- ⚡ Fun fact **I love talking to people :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
