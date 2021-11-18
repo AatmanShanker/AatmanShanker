@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aatmanshanker" target="blank"><img src="https://img.shields.io/twitter/follow/aatmanshanker?logo=twitter&style=for-the-badge" alt="aatmanshanker" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **codekrishna2008@gmail.com**
 
