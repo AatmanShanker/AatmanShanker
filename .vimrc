@@ -13,8 +13,9 @@ set incsearch
 set scrolloff=4
 
 call plug#begin('~/.vim/plugged')
-Plug 'dart-lang/dart-vim-plugin'
+Plug 'preservim/nerdtree'
 Plug 'arcticicestudio/nord-vim'
+Plug 'morhetz/gruvbox'
 Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
